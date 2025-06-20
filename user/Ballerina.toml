@@ -1,0 +1,4 @@
+[package]
+org = "kaiser"
+name = "user"
+version = "0.1.0"
